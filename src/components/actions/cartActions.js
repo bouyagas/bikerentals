@@ -1,0 +1,26 @@
+import {
+  ADD_TO_CART,
+  ADD_QUANTITY,
+  SUB_QUANTITY,
+} from './actionTypes/cart-action';
+
+export const addToCart = id => {
+  return {
+    type: ADD_TO_CART,
+    id,
+  };
+};
+
+export const subtractQuantity = id => {
+  return {
+    type: SUB_QUANTITY,
+    id,
+  };
+};
+
+export const addQuantity = id => {
+  return {
+    type: ADD_QUANTITY,
+    id,
+  };
+};
