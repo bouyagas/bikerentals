@@ -1,12 +1,12 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import Product from './components/Products';
 import Cart from './components/Cart';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter basename="/">
       <div>
         <NavBar />
         <div className="container">
@@ -24,7 +24,7 @@ const App = () => {
           </Switch>
         </div>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 

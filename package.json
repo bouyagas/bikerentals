@@ -1,11 +1,11 @@
 {
-  "homepage": "https://bouyagas.github.io/bikerentals",
   "name": "bikerentals",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bouyagas.github.io/bikerentals",
   "dependencies": {
     "bulma": "^0.7.5",
-    "json-loader": "^0.5.7",
+    "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-redux": "^7.1.1",
@@ -17,9 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -36,7 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^2.1.1"
-  }
+  "devDependencies": {}
 }
