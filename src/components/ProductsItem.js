@@ -19,10 +19,10 @@ const ProductsItem = ({ bike, handleAddItem }) => {
                 </p>
                 <p className="subtitle  is-size-4 has-text-centered">{`$${bike.price}`}</p>
                 <button
-                  className="button is-primary is-medium is-pulled-right "
+                  className="button is-primary is-small is-pulled-right "
                   onClick={() => handleAddItem(bike.id)}
                 >
-                  <i className="fas fa-plus-circle"></i>
+                  <p>Add to Cart</p>
                 </button>
                 <p className="title is-size-4 is-capitalized">
                   {bike.product_type}
