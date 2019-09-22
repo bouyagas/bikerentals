@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bf44b439d0378117165c5c682b5813f",
+    "revision": "a70e837c40077733cfdf1f602ea80bd0",
     "url": "/bikerentals/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bikerentals/static/css/2.05960da3.chunk.css"
   },
   {
-    "revision": "37a2a261257016ca1d07",
+    "revision": "50a8015a4b46c951a580",
     "url": "/bikerentals/static/css/main.cf16f943.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bikerentals/static/js/2.1e356f1a.chunk.js"
   },
   {
-    "revision": "37a2a261257016ca1d07",
-    "url": "/bikerentals/static/js/main.4a4ccc9a.chunk.js"
+    "revision": "50a8015a4b46c951a580",
+    "url": "/bikerentals/static/js/main.41e9e714.chunk.js"
   },
   {
     "revision": "042995b161cb1a337614",

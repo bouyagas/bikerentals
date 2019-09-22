@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bikerentals/static/css/main.cf16f943.chunk.css",
-    "main.js": "/bikerentals/static/js/main.4a4ccc9a.chunk.js",
-    "main.js.map": "/bikerentals/static/js/main.4a4ccc9a.chunk.js.map",
+    "main.js": "/bikerentals/static/js/main.41e9e714.chunk.js",
+    "main.js.map": "/bikerentals/static/js/main.41e9e714.chunk.js.map",
     "runtime-main.js": "/bikerentals/static/js/runtime-main.2275756c.js",
     "runtime-main.js.map": "/bikerentals/static/js/runtime-main.2275756c.js.map",
     "static/css/2.05960da3.chunk.css": "/bikerentals/static/css/2.05960da3.chunk.css",
     "static/js/2.1e356f1a.chunk.js": "/bikerentals/static/js/2.1e356f1a.chunk.js",
     "static/js/2.1e356f1a.chunk.js.map": "/bikerentals/static/js/2.1e356f1a.chunk.js.map",
     "index.html": "/bikerentals/index.html",
-    "precache-manifest.9b195f409807525d43ab9e69be2fd171.js": "/bikerentals/precache-manifest.9b195f409807525d43ab9e69be2fd171.js",
+    "precache-manifest.3e949b7265f89b7d98407e069190aca1.js": "/bikerentals/precache-manifest.3e949b7265f89b7d98407e069190aca1.js",
     "service-worker.js": "/bikerentals/service-worker.js",
     "static/css/2.05960da3.chunk.css.map": "/bikerentals/static/css/2.05960da3.chunk.css.map",
     "static/css/main.cf16f943.chunk.css.map": "/bikerentals/static/css/main.cf16f943.chunk.css.map"
